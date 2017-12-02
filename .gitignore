@@ -1,6 +1,10 @@
 # Dependency directories
-node_modules
+node_modules/
 
 # Miscellaneous
 *.cmd
 *.sh
+
+# Ignoring solutions I may have compared against after completion
+*-devil.js
+*-reddit[0-9].js
